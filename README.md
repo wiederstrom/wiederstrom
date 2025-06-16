@@ -1,16 +1,33 @@
-## Hi there 👋
+# 👋 Hi, I'm Erik
 
-<!--
-**wiederstrom/wiederstrom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a recently graduated data scientist with a Bachelor's degree in Applied Data Science and a background in business development. I have a passion for turning data into meaningful insights and i love building clear, intuitive dashboards and machine learning models that solve real-world problems.
 
-Here are some ideas to get you started:
+## 💼 What I Work On
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📊 Data visualization and storytelling (Dash, Plotly, Tableau)
+- 🤖 Machine learning and predictive models (scikit-learn, TensorFlow, PyTorch )
+- ☁️ Cloud and Big Data tools (GCP, BigQuery, AWS)
+- 🧹 Data cleaning, analysis, and pipeline design
+
+## 🚀 A Few Selected School Projects
+
+🔬 [Brain Tumor MRI Classifier](https://github.com/wiederstrom/brain-mri-classification)\
+Deep learning model to classify brain tumors from MRI images
+
+💧 [Global Water Consumption Dashboard](https://github.com/wiederstrom/water_consumption)\
+Interactive dashboard to explore global water usage trends
+
+🛸 [UFO Sightings Dashboard](https://github.com/wiederstrom/UFO)\
+Interactive data app for exploring UFO sighting patterns by region and time
+
+🩺 [Diabetes Prevalence Dashboard](https://github.com/wiederstrom/Diabetes-Dashboard)\
+Visualizing demographic trends in diabetes using BRFSS data
+
+## 📫 Let's Connect
+
+- [LinkedIn](https://linkedin.com/in/wiederstrom)
+
+
+
+Thanks for visiting!
+
