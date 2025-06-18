@@ -23,6 +23,9 @@ Interactive data app for exploring UFO sighting patterns by region and time
 🩺 [Diabetes Prevalence Dashboard](https://github.com/wiederstrom/Diabetes-Dashboard)\
 Visualizing demographic trends in diabetes using BRFSS data
 
+📉 [Customer Churn Prediction](https://github.com/wiederstrom/customer-churn-prediction)\
+GridSearch-optimized machine learning pipeline to predict customer churn from subscription data
+
 ## 📫 Let's Connect
 
 - [LinkedIn](https://linkedin.com/in/wiederstrom)
