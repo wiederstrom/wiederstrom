@@ -6,7 +6,7 @@ I'm a recently graduated data scientist with a Bachelor's degree in Applied Data
 
 - 📊 Data visualization and storytelling (Dash, Plotly, Tableau)
 - 🤖 Machine learning and predictive models (scikit-learn, TensorFlow, PyTorch )
-- ☁️ Cloud and Big Data tools (GCP, BigQuery, AWS)
+- ☁️ Cloud and Big Data tools (GCP, BigQuery, Spark, Databricks)
 - 🧹 Data cleaning, analysis, and pipeline design
 
 ## 🚀 A Few Selected School Projects
